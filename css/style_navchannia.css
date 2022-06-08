@@ -516,7 +516,7 @@ footer .icon {
     
 }
 
-@media (max-width: 768px) {
+@media (max-height: 768px) {
     .container {
     padding-left: 20px;
     padding-right: 20px;
