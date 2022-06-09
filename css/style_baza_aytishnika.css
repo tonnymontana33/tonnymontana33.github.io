@@ -967,7 +967,8 @@ footer .icon {
         font-size: 18px;
     }
     .nav-wrapper {
-        min-width: 550px;   
+        min-width: 550px;  
+        margin: 7px 7px;
     }
     
 /* Конец меню */
@@ -1049,7 +1050,8 @@ footer .icon {
         font-size: 20px;
     }
     .nav-wrapper {
-        min-width: 300px;   
+        min-width: 300px; 
+ 
     }
     
 /* Конец меню */
@@ -1104,7 +1106,8 @@ footer .icon {
     }
     
 /* Конец меню */
-      @media (max-width: 400px) {
+    
+    @media (max-width: 400px) {
      /* Меню */
 .heading{
     font-size: 20px;
