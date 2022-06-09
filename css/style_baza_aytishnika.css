@@ -1104,7 +1104,7 @@ footer .icon {
     }
     
 /* Конец меню */
-     @media (max-width: 400px) {
+      @media (max-width: 400px) {
      /* Меню */
 .heading{
     font-size: 20px;
